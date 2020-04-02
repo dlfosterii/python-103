@@ -1,1 +1,1 @@
-small exercises for Python 103
+another line to the README
